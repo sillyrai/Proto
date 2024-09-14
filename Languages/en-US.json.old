@@ -1,0 +1,80 @@
+{
+    "commands":{
+        "help": {
+            "name": "help",
+            "description": "❓ Shows this help message."
+        },
+        "8ball":{
+            "name": "8ball",
+            "description": "🎱 Ask the magic 8ball a question."
+        },
+        "animal":{
+            "name": "animal",
+            "description": "🐱 Get a random animal picture from the given types"
+        },
+        "clap":{
+            "name": "clap",
+            "description": "👏 puts 👏 the 👏 clap 👏 emoji 👏 in 👏 between 👏 everything 👏"
+        },
+        "furryrate":{
+            "name": "furryrate",
+            "description": "🐾 Rates how much of a furry you(or the given person) are."
+        },
+        "quote":{
+            "name": "quote",
+            "description": "📜 Generate an incorrect quote"
+        },
+        "reddit":{
+            "name": "reddit",
+            "description": "📰 Get a random post from the given subreddit"
+        },
+        "uwuify":{
+            "name": "uwuify",
+            "description": "🐾 UwUify a message"
+        },
+        "echo":{
+            "name": "echo",
+            "description": "🗣️ Echo a message"
+        },
+        "ban":{
+            "name": "ban",
+            "description": "🔨 Ban a user"
+        },
+        "kick":{
+            "name": "kick",
+            "description": "👢 Kick a user"
+        },
+        "lockdown":{
+            "name": "lockdown",
+            "description": "🔒 (un)Lockdown the given channel"
+        },
+        "mute":{
+            "name": "mute",
+            "description": "🔇 Mute a user"
+        },
+        "unmute":{
+            "name": "unmute",
+            "description": "🔊 Unmute a user"
+        },
+        "purge":{
+            "name": "purge",
+            "description": "🗑️ Purge a given amount of messages"
+        },
+        "slowmode":{
+            "name": "slowmode",
+            "description": "🐌 Set the slowmode of a channel"
+        },
+        "avatar":{
+            "name": "avatar",
+            "description": "👤 Get the avatar of a user"
+        },
+        "lookup":{
+            "name": "lookup",
+            "description": "🔍 Lookup a user"
+        },
+        "ping":{
+            "name": "ping",
+            "description": "🏓 Get the bot's ping"
+        }
+    }
+}

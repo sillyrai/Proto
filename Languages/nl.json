@@ -1,0 +1,80 @@
+{
+    "commands": {
+        "help": {
+            "name": "help",
+            "description": "❓ Laat hulp berichten zien."
+        },
+        "8ball":{
+            "name": "8bal",
+            "description": "🎱 Stel de magische 8 bal een vraag."
+        },
+        "animal":{
+            "name": "dier",
+            "description": "🐱 Haal een willekeurige dierenfoto uit de gegeven soorten."
+        },
+        "clap":{
+            "name": "klap",
+            "description": "👏 Stopt 👏 de 👏 klap 👏 emoji 👏 tussen 👏 alle 👏 worden. 👏 "
+        },
+        "furryrate":{
+            "name": "furrylevel",
+            "description": "🐾 Beoordeelt hoe furry jij (of de bepaalde persoon) bent."
+        },
+        "quote":{
+            "name": "offerte",
+            "description": "📜 Genereer een onjuiste offerte."
+        },
+        "reddit":{
+            "name": "reddit",
+            "description": "📰 Ontvang een willekeurig bericht van de gegeven subreddit."
+        },
+        "uwuify":{
+            "name": "uwuify",
+            "description": "🐾 UwUify een bericht."
+        },
+        "echo":{
+            "name": "echo",
+            "description": "🗣️ Echo een bericht."
+        },
+        "ban":{
+            "name": "verban",
+            "description": "🔨 Verban een gebruiker."
+        },
+        "kick":{
+            "name": "kick",
+            "description": "👢 Kick een gebruiker."
+        },
+        "lockdown":{
+            "name": "lockdown",
+            "description": "🔒 (un)Lockdown de aangegeven kanaal."
+        },
+        "mute":{
+            "name": "mute",
+            "description": "🔇 Mute een gebruiker."
+        },
+        "unmute":{
+            "name": "unmute",
+            "description": "🔊 Unmute een gebruiker."
+        },
+        "purge":{
+            "name": "zuiver",
+            "description": "🗑️ Een bepaald aantal berichten opschonen."
+        },
+        "slowmode":{
+            "name": "slowmode",
+            "description": "🐌 Stel de slowmode van een kanaal in."
+        },
+        "avatar":{
+            "name": "avatar",
+            "description": "👤 Pak de avatar van een gebruiker"
+        },
+        "lookup":{
+            "name": "zoek",
+            "description": "🔍 Zoek een gebruiker"
+        },
+        "ping":{
+            "name": "ping",
+            "description": "🏓 Pak de ping van de bot"
+        }
+    }
+}

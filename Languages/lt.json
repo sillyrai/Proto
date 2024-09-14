@@ -1,0 +1,77 @@
+{
+    "commands":{
+        "help": {
+            "name": "pagalba",
+            "description": "❓ Rodomas šis pagalbos pranešimas."
+        },
+        "8ball":{
+            "name": "8kamuolys",
+            "description": "🎱 Užduokite stebuklingajam 8 kamuoliukui klausimą."
+        },
+        "animal":{
+            "name": "gyvūnų",
+            "description": "🐱 Gaukite atsitiktinį gyvūno paveikslėlį iš pateiktų tipų"
+        },
+        "clap":{
+            "name": "pliaukštelėti",
+            "description": "👏 įterpia 👏 klaustuką 👏 emoji 👏 tarp 👏 visko 👏"
+        },
+        "furryrate":{
+            "name": "kailiniai-norma",
+            "description": "🐾 Įvertinkite, kiek jūs (arba konkretus asmuo) esate kailiniai."
+        },
+        "quote":{
+            "name": "citata",
+            "description": "📜 Sukurti neteisingą citatą"
+        },
+        "reddit":{
+            "name": "reddit",
+            "description": "📰 Gauti atsitiktinį įrašą iš nurodyto subreddito"
+        },
+        "uwuify":{
+            "name": "uwuify",
+            "description": "🐾 UwUify žinutė"
+        },
+        "echo":{
+            "name": "aidas",
+            "description": "🗣️ aidas žinutė"
+        },
+        "ban":{
+            "name": "draudimas",
+            "description": "🔨 Uždrausti naudotojui"
+        },
+        "kick":{
+            "name": "pašalinti",
+            "description": "👢 Išmušti vartotoją"
+        },
+        "lockdown":{
+            "name": "blokavimas",
+            "description": "🔒 (ne)užblokuoti tam tikrą kanalą"
+        },
+        "mute":{
+            "name": "nutildyti",
+            "description": "🔇 Vartotojo nutildymas"
+        },
+
+        "purge":{
+            "name": "masinis-ištrynimas",
+            "description": "🗑️ masiškai ištrinti tam tikrą kiekį pranešimų"
+        },
+        "slowmode":{
+            "name": "lėtasis-režimas",
+            "description": "🐌 Nustatyti kanalo lėtąjį režimą"
+        },
+        "avatar":{
+            "name": "avataras",
+            "description": "👤 Gauti naudotojo avatarą"
+        },
+        "lookup":{
+            "name": "ieškoti",
+            "description": "🔍 Naudotojo paieška"
+        },
+        "ping":{
+            "name": "ping",
+            "description": "🏓 Gaukite boto ping"
+        }
+    }
+}

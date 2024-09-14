@@ -1,0 +1,124 @@
+{
+    "commands": {
+        "8ball": {
+            "name": "8ball",
+            "description": "🎱 Ask the magic 8ball a question, totally very legit."
+        },
+        "animal": {
+            "name": "animal",
+            "description": "🐱 Get a random animal from the selected type"
+        },
+        "clap": {
+            "name": "clap",
+            "description": "Replaces 👏 every 👏 space 👏 with 👏 a 👏 clapping 👏 emoji"
+        },
+        "furryrate": {
+            "name": "furryrate",
+            "description": "🦊 Rates how much of a furry the given person is. Value changes each hour"
+        },
+        "quote": {
+            "name": "quote",
+            "description": "📜 Creates an incorrect quote with the given people"
+        },
+        "reddit": {
+            "name": "reddit",
+            "description": "🐸 Lookup Reddit posts"
+        },
+        "uwuify": {
+            "name": "uwuify",
+            "description": "🐱 UwUify your message"
+        },
+        "ban": {
+            "name": "ban",
+            "description": "🔨 Bans a person from the server"
+        },
+        "kick": {
+            "name": "kick",
+            "description": "🔨 Kicks a person from the server"
+        },
+        "lockdown": {
+            "name": "lockdown",
+            "description": "🔒 Locks down the specified channel"
+        },
+        "mute": {
+            "name": "mute",
+            "description": "🔇 Mutes the specified user"
+        },
+        "purge": {
+            "name": "purge",
+            "description": "🗑️ Purges the specified amount of messages"
+        },
+        "slowmode": {
+            "name": "slowmode",
+            "description": "🐌 Set the slowmode of a channel (0 to disable)"
+        },
+        "unmute": {
+            "name": "unmute",
+            "description": "🔇 Unmutes the specified user"
+        },
+        "e621": {
+            "name": "e621",
+            "description": "🔞 Search e621"
+        },
+        "e6sub": {
+            "name": "e6sub",
+            "description": "🔞 Subscribes to an e621 tag. Making it periodically post images from the tag"
+        },
+        "starboard-required": {
+            "name": "starboard-required",
+            "description": "⭐ Set the required amount of stars to be added to the starboard."
+        },
+        "starboard-symbol": {
+            "name": "starboard-symbol",
+            "description": "⭐ Sets the symbol to use for starboard."
+        },
+        "starboard-enabled": {
+            "name": "starboard-enabled",
+            "description": "⭐ Toggles the starboard on or off."
+        },
+        "starboard-channel": {
+            "name": "starboard-channel",
+            "description": "⭐ Updates the starboard channel."
+        },
+        "avatar": {
+            "name": "avatar",
+            "description": "🖼️ Gets the avatar of a user"
+        },
+        "echo": {
+            "name": "echo",
+            "description": "🔊 echoes your message"
+        },
+        "guildstats": {
+            "name": "guildstats",
+            "description": "🖥️ Get stats about the guild"
+        },
+        "help": {
+            "name": "help",
+            "description": "ℹ️ Displays the info page about the bot"
+        },
+        "lookup": {
+            "name": "lookup",
+            "description": "🔍 Looks up a users information"
+        },
+        "ping": {
+            "name": "ping",
+            "description": "🏓 Pings the bot"
+        },
+        "welcomer-help": {
+            "name": "welcomer-help",
+            "description": "👋 Shows a help page for Welcomer commands"
+        },
+        "welcomer-message": {
+            "name": "welcomer-message",
+            "description": "👋 Updates the welcomer message."
+        },
+        "welcomer-enabled": {
+            "name": "welcomer-enabled",
+            "description": "👋 Toggles the welcomer on or off."
+        },
+        "welcomer-channel": {
+            "name": "welcomer-channel",
+            "description": "👋 Updates the welcomer channel."
+        }
+    }
+}
